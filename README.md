@@ -25,8 +25,6 @@ Proyek ini sepenuhnya diimplementasikan menggunakan arsitektur *cloud-based* unt
 
 ## 📂 Struktur Repositori
 
-Repositori ini diorganisir untuk transparansi penuh dari *data source* hingga *final dashboard*.
-PBI-Rakamin-Kimia-Farma-Analytics/
 <img width="638" height="304" alt="image" src="https://github.com/user-attachments/assets/9a79acb4-d585-4027-ad57-c1266ae147f2" />
 
 
