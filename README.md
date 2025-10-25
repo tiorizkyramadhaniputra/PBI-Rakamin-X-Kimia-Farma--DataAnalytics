@@ -57,5 +57,5 @@ Dashboard analitik mengungkapkan beberapa wawasan kritis yang menjadi dasar reko
 
 | Sumber Daya | Tautan |
 | :--- | :--- |
-| **Executive Dashboard (Looker Studio)** | [Link Dashboard Anda di Looker Studio](MASUKKAN_LINK_LOOKER_STUDIO_ANDA_DI_SINI) |
+| **Executive Dashboard (Looker Studio)** | [Link Dashboard Anda di Looker Studio](https://lookerstudio.google.com/reporting/2ac1580d-b026-40c4-b206-42933a072451/page/Mq0cF/edit) |
 | **Laporan Presentasi (PPT)** | `03_Presentation_and_Report/Tio_Rizky_Ramadhani_Putra__KIMIA_FARMA.pptx` |
