@@ -27,19 +27,8 @@ Proyek ini sepenuhnya diimplementasikan menggunakan arsitektur *cloud-based* unt
 
 Repositori ini diorganisir untuk transparansi penuh dari *data source* hingga *final dashboard*.
 PBI-Rakamin-Kimia-Farma-Analytics/
-├── 01_Data_Mentah/
-│   ├── kf_final_transaction.csv
-│   ├── kf_inventory.csv
-│   ├── kf_kantor_cabang.csv
-│   └── kf_product.csv
-├── 02_SQL_Scripts/
-│   ├── 1.0_Data_Integration.sql  (Script JOIN awal untuk membuat kf_tabel_analisa_final)
-│   ├── 2.0_Metrics_Calculation.sql (Script menghitung nett_sales & nett_profit)
-│   └── 3.0_Aggregation_Summary.sql (Script GROUP BY untuk kf_kinerja_summary)
-├── 03_Presentation_and_Report/
-│   ├── Tio_Rizky_Ramadhani_Putra__KIMIA_FARMA.pptx (File presentasi Anda)
-│   └── Dashboard_Screenshot.png (Screenshot Looker Studio)
-└── README.md (Deskripsi proyek dan temuan kunci)
+<img width="638" height="304" alt="image" src="https://github.com/user-attachments/assets/9a79acb4-d585-4027-ad57-c1266ae147f2" />
+
 
 ## 📈 Temuan Kunci (Key Findings) dari Dashboard
 
